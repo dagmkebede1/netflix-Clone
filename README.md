@@ -7,6 +7,7 @@ React project created by vite.
 ```   
 
 hosted on firebase server
+
 live-preview: <https://netflix-clone-d2860.firebaseapp.com/>
 
 
