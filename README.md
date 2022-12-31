@@ -7,7 +7,7 @@ React project created by vite.
     npm create vite@latest netflix-clone -- --template react
 ```   
 
-> Hosted on firebase server
+*Hosted on firebase server*
 
 >    [**Live Preview**](https://netflix-clone-d2860.firebaseapp.com)
 
