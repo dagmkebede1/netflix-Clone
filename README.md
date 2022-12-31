@@ -1,4 +1,4 @@
-## React Netflix Clone  <img src="./public/d05cff3e-7260-4980-bc78-b1f299189582.ico" alt="drawing" width="100"/>
+## React Netflix Clone  <img src="./public/d05cff3e-7260-4980-bc78-b1f299189582.ico" alt="drawing" style="vertical-align: middle" width="100"/>
 
 ### This project is the part of Evangadi Coding bootcamp, project based learning schedule.
 
