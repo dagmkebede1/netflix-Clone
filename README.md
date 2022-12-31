@@ -7,9 +7,13 @@ React project created by vite.
     npm create vite@latest netflix-clone -- --template react
 ```   
 
+
+
 *Hosted on firebase server*
 
 >    [**Live Preview**](https://netflix-clone-d2860.firebaseapp.com)
+
+
 
 
 npm packages used:
@@ -17,11 +21,13 @@ npm packages used:
     npm install axios react-youtube movie-trailer
 ```
 
+
 **Api used**
 
 [The Movie Database](https://www.themoviedb.org/)
 > create account on the Movie Database and grab your API key and use on configuration.
    
+
 
 you can clone and use for anything
 ```
