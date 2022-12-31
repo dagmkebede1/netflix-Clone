@@ -9,7 +9,7 @@ React project created by vite.
 
 > Hosted on firebase server
 
-        [**Live Preview**](https://netflix-clone-d2860.firebaseapp.com)
+>    [**Live Preview**](https://netflix-clone-d2860.firebaseapp.com)
 
 
 npm packages used:
