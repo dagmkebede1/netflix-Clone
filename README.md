@@ -18,7 +18,7 @@ React project created by vite.
 
 npm packages used:
 ```
-    npm install axios react-youtube movie-trailer
+    npm install axios react-youtube movie-trailer react-spinners
 ```
 
 
