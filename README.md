@@ -29,9 +29,6 @@ npm packages used:
    
 
 
-you can clone and use for anything
-```
-    git clone https://github.com/samsonmeseret/netflix-Clone
-```
+
 
 ### Enjoy
